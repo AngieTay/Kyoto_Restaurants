@@ -1,7 +1,7 @@
 # Kyoto Restaurants
 :fork_and_knife: :sushi: :rice_ball: :bento: :ramen:
 
-Mixed Interger Programming 
+Optimization: Mixed Interger Programming 
 
 ## Data Source:
 Original Data: https://www.kaggle.com/koki25ando/tabelog-restaurant-review-dataset
