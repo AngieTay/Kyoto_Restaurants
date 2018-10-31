@@ -4,7 +4,8 @@
 Optimization: Mixed Interger Programming 
 
 ## Data Source:
-Original Data: https://www.kaggle.com/koki25ando/tabelog-restaurant-review-dataset
+
+Original Data: https://www.kaggle.com/koki25ando/tabelog-restaurant-review-dataset <br>
 Cleaned Dataset: [Kyoto.csv](https://github.com/AngieTay/Kyoto_Restaurants/blob/master/Kyoto.csv)
 
 ## Optimization Packages Used:
